@@ -1,4 +1,5 @@
 Windows 8 METRO application. PacmanControl.
+==================
 
 Example creation templated control that must be looking as pacman.
 
